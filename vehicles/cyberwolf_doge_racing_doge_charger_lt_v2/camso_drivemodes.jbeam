@@ -1,0 +1,135 @@
+{
+    "Camso_DriveModes": {
+        "information":{
+            "authors":"Diamondback",
+            "name":"Drive Modes",
+            "value":250,
+        },
+        "slotType" : "Camso_DriveModes",
+        "slots":[
+            ["type", "default", "description"],
+            ["Camso_DriveModes_default","Camso_DriveModes_default_comfort", "Default Mode"],
+        ]
+
+        "controller": [
+            ["fileName"],
+            ["driveModes"]
+        ],
+
+        "driveModes": {
+            "enabledModes":["comfort", "sport", "race", "off"]
+            "defaultMode": "sport"
+            "defaultSettings": [
+                ["type"]
+
+                ["controller", {"controllerName":"tractionControl", "isEnabled":true}]
+                ["controller", {"controllerName":"yawControl", "isEnabled":true}]
+                ["controller", {"controllerName":"motorTorqueControl", "tractionControl": "default", "yawControl": "default"}]
+                ["controller", {"controllerName":"brakeControl", "tractionControl": "default", "yawControl": "default"}]
+            ],
+            "modes": {
+                "comfort": {
+                    "name": "Comfort",
+                    "order": 10,
+                    "settings": [
+                        ["type"]
+                        ["controller", {"controllerName":"CMU", "uiDisplayData.simplePowertrainApp.activeColor": "238BE6"}]
+
+                      ["controller", {"controllerName":"motorTorqueControl",
+                            "tractionControl.isEnabled":true,
+                            "tractionControl.wheelGroupSettings.mainEngine.slipThreshold": 0.125,
+                            "yawControl.yawAvThreshold": 0.6,
+                            "yawControl.isEnabled":false,
+                        }]
+                        ["controller", {"controllerName":"brakeControl",
+                            "tractionControl.isEnabled":true,
+                            "tractionControl.wheelGroupSettings.mainEngine.slipThreshold": 0.125,
+                            "yawControl.isEnabled":true,
+                            "yawControl.slipAngleThreshold": 0.1,
+                            "yawControl.yawAvThreshold": 0.4
+                        }]
+                    ],
+                },
+                "sport": {
+                    "name": "Sport",
+                    "order": 20,
+                    "settings": [
+                        ["type"]
+                        ["controller", {"controllerName":"motorTorqueControl",
+                            "tractionControl.isEnabled":true,
+                            "tractionControl.wheelGroupSettings.mainEngine.slipThreshold": 0.35,
+                            "yawControl.isEnabled":true,
+                        }]
+                        ["controller", {"controllerName":"brakeControl",
+                            "tractionControl.isEnabled":true,
+                            "tractionControl.wheelGroupSettings.mainEngine.slipThreshold": 0.4,
+                            "yawControl.isEnabled":true,
+                            "yawControl.slipAngleThreshold": 0.4,
+                            "yawControl.yawAvThreshold": 0.5
+                        }]
+
+                        ["controller", {"controllerName":"CMU", "uiDisplayData.simplePowertrainApp.activeColor": "FFFF00"}]
+                    ],
+                },
+
+
+                "off": {
+                    "name": "ESC & TC Off",
+                    "order": 50,
+                    "settings": [
+                        ["type"]
+
+                        ["controller", {"controllerName":"tractionControl", "isEnabled":false}]
+                        ["controller", {"controllerName":"yawControl", "isEnabled":false}]
+                        ["controller", {"controllerName":"motorTorqueControl"}]
+                        ["controller", {"controllerName":"brakeControl"}]
+
+                        ["controller", {"controllerName":"CMU", "uiDisplayData.simplePowertrainApp.activeColor": "DCDCDC"}]
+
+                    ],
+                }
+            },
+        },
+    },
+
+    "Camso_DriveModes_default_comfort": {
+        "information":{
+            "authors":"Diamondback",
+            "name":"Comfort Mode",
+            "value":500,
+        },
+        "slotType" : "Camso_DriveModes_default",
+
+        "driveModes": {
+            "defaultMode":"comfort"
+        }
+    },
+
+    "Camso_DriveModes_default_sport": {
+        "information":{
+            "authors":"Diamondback",
+            "name":"Sport Mode",
+            "value":500,
+        },
+        "slotType" : "Camso_DriveModes_default",
+
+        "driveModes": {
+            "defaultMode":"sport"
+        }
+    },
+
+
+
+    "Camso_DriveModes_default_off": {
+        "information":{
+            "authors":"Diamondback",
+            "name":"ESC & TC Off Mode",
+            "value":500,
+        },
+        "slotType" : "Camso_DriveModes_default",
+
+        "driveModes": {
+            "defaultMode":"off"
+        }
+    },
+}
