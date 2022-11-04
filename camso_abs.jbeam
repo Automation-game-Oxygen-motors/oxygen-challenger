@@ -1,0 +1,16 @@
+{
+    "Camso_ABS": {
+        "information":{
+            "authors":"BeamNG",
+            "name":"Anti-Lock Braking System",
+            "value":600,
+        }
+        "slotType":"Camso_ABS",
+        "pressureWheels": [
+            ["name","hubGroup","group","node1:","node2:","nodeS","nodeArm:","wheelDir"],
+            //brakes
+            {"enableABS":true},
+            {"absHz":50}, //Fastest rate that ABS can cycle or read wheel speeds
+        ],
+    }
+}
