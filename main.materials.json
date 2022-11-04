@@ -1,0 +1,2976 @@
+{
+	"material_0_doge_racing_doge_charger_lt_v2_doge_racing_doge_charger_lt_v2_body0": {
+		"name": "material_0_doge_racing_doge_charger_lt_v2_doge_racing_doge_charger_lt_v2_body0",
+		"class": "Material",
+		"mapTo": "material_0_doge_racing_doge_charger_lt_v2_doge_racing_doge_charger_lt_v2_body0",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"clearCoatFactor": 1,
+				"clearCoatRoughnessFactor": 1,
+				"opacityMap": "cyberwolf_doge_racing_doge_charger_lt_v2_stamp0.dds",
+				"opacityMapUseUV": 1,
+				"instanceDiffuse": true,
+				"colorPaletteMap": "camso_col_0xffff0000.dds",
+				"roughnessFactor": 1,
+				"metallicFactor": 1,
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_1_doge_racing_doge_charger_lt_v2_doge_racing_doge_charger_lt_v2_body0": {
+		"name": "material_1_doge_racing_doge_charger_lt_v2_doge_racing_doge_charger_lt_v2_body0",
+		"class": "Material",
+		"mapTo": "material_1_doge_racing_doge_charger_lt_v2_doge_racing_doge_charger_lt_v2_body0",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"opacityMap": "cyberwolf_doge_racing_doge_charger_lt_v2_stamp0.dds",
+				"opacityMapUseUV": 1,
+				"diffuseColor": [ 0.00392157, 0.101961, 0.0862745, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 1,
+				"opacityFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_2_doge_racing_doge_charger_lt_v2_doge_racing_doge_charger_lt_v2_body0": {
+		"name": "material_2_doge_racing_doge_charger_lt_v2_doge_racing_doge_charger_lt_v2_body0",
+		"class": "Material",
+		"mapTo": "material_2_doge_racing_doge_charger_lt_v2_doge_racing_doge_charger_lt_v2_body0",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"opacityMap": "cyberwolf_doge_racing_doge_charger_lt_v2_stamp0.dds",
+				"opacityMapUseUV": 1,
+				"diffuseColor": [ 0.0627451, 0.0627451, 0.0627451, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_3_doge_racing_doge_charger_lt_v2_doge_racing_doge_charger_lt_v2_body0": {
+		"name": "material_3_doge_racing_doge_charger_lt_v2_doge_racing_doge_charger_lt_v2_body0",
+		"class": "Material",
+		"mapTo": "material_3_doge_racing_doge_charger_lt_v2_doge_racing_doge_charger_lt_v2_body0",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"opacityMap": "cyberwolf_doge_racing_doge_charger_lt_v2_stamp0.dds",
+				"opacityMapUseUV": 1,
+				"roughnessFactor": 0,
+				"metallicFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_4_doge_racing_doge_charger_lt_v2_chassis1": {
+		"name": "material_4_doge_racing_doge_charger_lt_v2_chassis1",
+		"class": "Material",
+		"mapTo": "material_4_doge_racing_doge_charger_lt_v2_chassis1",
+		"Stages": [
+			{
+				"normalMap": "camso_orangepeel_nor_s.dds",
+				"diffuseColor": [ 0, 0, 0, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_5_doge_racing_doge_charger_lt_v2_chassis1": {
+		"name": "material_5_doge_racing_doge_charger_lt_v2_chassis1",
+		"class": "Material",
+		"mapTo": "material_5_doge_racing_doge_charger_lt_v2_chassis1",
+		"Stages": [
+			{
+				"normalMap": "camso_t_alcantara_scatter_n.dds",
+				"diffuseColor": [ 0.247059, 0.247059, 0.247059, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_6_doge_racing_doge_charger_lt_v2_temp2": {
+		"name": "material_6_doge_racing_doge_charger_lt_v2_temp2",
+		"class": "Material",
+		"mapTo": "material_6_doge_racing_doge_charger_lt_v2_temp2",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.560784, 0.560784, 0.560784, 1 ],
+				"roughnessFactor": 0.2,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_7_doge_racing_doge_charger_lt_v2_temp2": {
+		"name": "material_7_doge_racing_doge_charger_lt_v2_temp2",
+		"class": "Material",
+		"mapTo": "material_7_doge_racing_doge_charger_lt_v2_temp2",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.513725, 0.560784, 0.603922, 1 ],
+				"roughnessFactor": 0.2,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_8_doge_racing_doge_charger_lt_v2_temp2": {
+		"name": "material_8_doge_racing_doge_charger_lt_v2_temp2",
+		"class": "Material",
+		"mapTo": "material_8_doge_racing_doge_charger_lt_v2_temp2",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.0470588, 0.0470588, 0.0470588, 0 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_9_doge_racing_doge_charger_lt_v2_tyre_f2": {
+		"name": "material_9_doge_racing_doge_charger_lt_v2_tyre_f2",
+		"class": "Material",
+		"mapTo": "material_9_doge_racing_doge_charger_lt_v2_tyre_f2",
+		"Stages": [
+			{
+				"normalMap": "camso_tyrehigh_tread_normal.dds",
+				"diffuseColor": [ 0.12549, 0.12549, 0.12549, 1 ],
+				"roughnessFactor": 0.4,
+				"metallicFactor": 0,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_10_doge_racing_doge_charger_lt_v2_tyre_f2": {
+		"name": "material_10_doge_racing_doge_charger_lt_v2_tyre_f2",
+		"class": "Material",
+		"mapTo": "material_10_doge_racing_doge_charger_lt_v2_tyre_f2",
+		"Stages": [
+			{
+				"normalMap": "camso_tyrehigh_sidewall_normal.dds",
+				"diffuseColor": [ 0.12549, 0.12549, 0.12549, 1 ],
+				"roughnessFactor": 0.4,
+				"metallicFactor": 0,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_11_doge_racing_doge_charger_lt_v2_tyre_f2": {
+		"name": "material_11_doge_racing_doge_charger_lt_v2_tyre_f2",
+		"class": "Material",
+		"mapTo": "material_11_doge_racing_doge_charger_lt_v2_tyre_f2",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.74902, 0.756863, 0.74902, 1 ],
+				"roughnessFactor": 0.2,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_12_doge_racing_doge_charger_lt_v2_wheel_f3": {
+		"name": "material_12_doge_racing_doge_charger_lt_v2_wheel_f3",
+		"class": "Material",
+		"mapTo": "material_12_doge_racing_doge_charger_lt_v2_wheel_f3",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.74902, 0.756863, 0.74902, 1 ],
+				"roughnessFactor": 0.2,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_13_doge_racing_doge_charger_lt_v2_suspension_f4": {
+		"name": "material_13_doge_racing_doge_charger_lt_v2_suspension_f4",
+		"class": "Material",
+		"mapTo": "material_13_doge_racing_doge_charger_lt_v2_suspension_f4",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.596078, 0.596078, 0.596078, 1 ],
+				"roughnessFactor": 0.9,
+				"metallicFactor": 0.4
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_14_doge_racing_doge_charger_lt_v2_suspension_f4": {
+		"name": "material_14_doge_racing_doge_charger_lt_v2_suspension_f4",
+		"class": "Material",
+		"mapTo": "material_14_doge_racing_doge_charger_lt_v2_suspension_f4",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.662745, 0.568627, 0.113725, 0 ],
+				"roughnessFactor": 0.3,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_15_doge_racing_doge_charger_lt_v2_suspension_f4": {
+		"name": "material_15_doge_racing_doge_charger_lt_v2_suspension_f4",
+		"class": "Material",
+		"mapTo": "material_15_doge_racing_doge_charger_lt_v2_suspension_f4",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.517647, 0, 0, 0 ],
+				"roughnessFactor": 0.3,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_16_doge_racing_doge_charger_lt_v2_brakecaliper_f5": {
+		"name": "material_16_doge_racing_doge_charger_lt_v2_brakecaliper_f5",
+		"class": "Material",
+		"mapTo": "material_16_doge_racing_doge_charger_lt_v2_brakecaliper_f5",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.690196, 0.690196, 0.690196, 1 ],
+				"roughnessFactor": 0.9,
+				"metallicFactor": 0.4
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_17_doge_racing_doge_charger_lt_v2_brakecaliper_f5": {
+		"name": "material_17_doge_racing_doge_charger_lt_v2_brakecaliper_f5",
+		"class": "Material",
+		"mapTo": "material_17_doge_racing_doge_charger_lt_v2_brakecaliper_f5",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.0470588, 0.0470588, 0.0470588, 0 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_18_doge_racing_doge_charger_lt_v2_brakecaliper_f5": {
+		"name": "material_18_doge_racing_doge_charger_lt_v2_brakecaliper_f5",
+		"class": "Material",
+		"mapTo": "material_18_doge_racing_doge_charger_lt_v2_brakecaliper_f5",
+		"Stages": [
+			{
+				"normalMap": "camso_boltnormal.dds",
+				"diffuseColor": [ 0.709804, 0.670588, 0.611765, 1 ],
+				"roughnessFactor": 0.4,
+				"metallicFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_19_doge_racing_doge_charger_lt_v2_temp6": {
+		"name": "material_19_doge_racing_doge_charger_lt_v2_temp6",
+		"class": "Material",
+		"mapTo": "material_19_doge_racing_doge_charger_lt_v2_temp6",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.372549, 0.372549, 0.372549, 1 ],
+				"roughnessFactor": 0.9,
+				"metallicFactor": 0.4
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_20_doge_racing_doge_charger_lt_v2_temp6": {
+		"name": "material_20_doge_racing_doge_charger_lt_v2_temp6",
+		"class": "Material",
+		"mapTo": "material_20_doge_racing_doge_charger_lt_v2_temp6",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.737255, 0.737255, 0.737255, 1 ],
+				"roughnessFactor": 0.25,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_21_doge_racing_doge_charger_lt_v2_temp6": {
+		"name": "material_21_doge_racing_doge_charger_lt_v2_temp6",
+		"class": "Material",
+		"mapTo": "material_21_doge_racing_doge_charger_lt_v2_temp6",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.94902, 0.854902, 0.639216, 1 ],
+				"roughnessFactor": 0.2,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_22_doge_racing_doge_charger_lt_v2_suspension_r9": {
+		"name": "material_22_doge_racing_doge_charger_lt_v2_suspension_r9",
+		"class": "Material",
+		"mapTo": "material_22_doge_racing_doge_charger_lt_v2_suspension_r9",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.737255, 0.737255, 0.737255, 1 ],
+				"roughnessFactor": 0.25,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_23_doge_racing_doge_charger_lt_v2_suspension_r9": {
+		"name": "material_23_doge_racing_doge_charger_lt_v2_suspension_r9",
+		"class": "Material",
+		"mapTo": "material_23_doge_racing_doge_charger_lt_v2_suspension_r9",
+		"Stages": [
+			{
+				"normalMap": "camso_boltnormal.dds",
+				"diffuseColor": [ 0.709804, 0.670588, 0.611765, 1 ],
+				"roughnessFactor": 0.4,
+				"metallicFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_24_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_24_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_24_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"clearCoatFactor": 1,
+				"clearCoatRoughnessFactor": 1,
+				"instanceDiffuse": true,
+				"colorPaletteMap": "camso_col_0xffff0000.dds",
+				"roughnessFactor": 1,
+				"metallicFactor": 1,
+				"diffuseColor": [ 1, 1, 1, 1 ]
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_25_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_25_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_25_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_t_grille01_n.dds",
+				"diffuseColor": [ 0.431373, 0.431373, 0.431373, 0.027451 ],
+				"roughnessFactor": 1,
+				"metallicFactor": 1,
+				"diffuseMap": "camso_t_grille01_h_rbgmask.dds",
+				"metallicMap": "camso_t_grille01_h_rbgmask.dds",
+				"roughnessMap": "camso_t_grille01_h_i_rbgmask.dds",
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_26_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_26_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_26_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 1, 0.964706, 0.956863, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_27_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_27_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_27_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_t_blanknormal.dds",
+				"diffuseColor": [ 0.94902, 0.94902, 0.94902, 0.34902 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 0.34902,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "AddAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_27_doge_racing_doge_charger_lt_v2_temp12_off": {
+		"name": "material_27_doge_racing_doge_charger_lt_v2_temp12_off",
+		"class": "Material",
+		"mapTo": "material_27_doge_racing_doge_charger_lt_v2_temp12_off",
+		"Stages": [
+			{
+				"normalMap": "camso_t_blanknormal.dds",
+				"diffuseColor": [ 0.94902, 0.94902, 0.94902, 0.34902 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 0.34902,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "AddAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_27_doge_racing_doge_charger_lt_v2_temp12_on": {
+		"name": "material_27_doge_racing_doge_charger_lt_v2_temp12_on",
+		"class": "Material",
+		"mapTo": "material_27_doge_racing_doge_charger_lt_v2_temp12_on",
+		"Stages": [
+			{
+				"normalMap": "camso_t_blanknormal.dds",
+				"diffuseColor": [ 0.94902, 0.94902, 0.94902, 0.34902 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 0.34902,
+				"emissiveFactor": [ 0.992141, 0.992141, 0.992141 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "AddAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_27_doge_racing_doge_charger_lt_v2_temp12_onIntense": {
+		"name": "material_27_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"class": "Material",
+		"mapTo": "material_27_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"Stages": [
+			{
+				"normalMap": "camso_t_blanknormal.dds",
+				"diffuseColor": [ 0.94902, 0.94902, 0.94902, 0.34902 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 0.34902,
+				"emissiveFactor": [ 1, 1, 1 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "AddAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_28_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_28_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_28_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_03_normal.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0.02,
+				"metallicFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_28_doge_racing_doge_charger_lt_v2_temp12_off": {
+		"name": "material_28_doge_racing_doge_charger_lt_v2_temp12_off",
+		"class": "Material",
+		"mapTo": "material_28_doge_racing_doge_charger_lt_v2_temp12_off",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_03_normal.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0.02,
+				"metallicFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_28_doge_racing_doge_charger_lt_v2_temp12_on": {
+		"name": "material_28_doge_racing_doge_charger_lt_v2_temp12_on",
+		"class": "Material",
+		"mapTo": "material_28_doge_racing_doge_charger_lt_v2_temp12_on",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_03_normal.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0.02,
+				"metallicFactor": 1,
+				"emissiveFactor": [ 1, 1, 1 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_28_doge_racing_doge_charger_lt_v2_temp12_onIntense": {
+		"name": "material_28_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"class": "Material",
+		"mapTo": "material_28_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_03_normal.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0.02,
+				"metallicFactor": 1,
+				"emissiveFactor": [ 1, 1, 1 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_29_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_29_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_29_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 1, 0.964706, 0.956863, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_30_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_30_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_30_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_03_normal.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0.02,
+				"metallicFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_30_doge_racing_doge_charger_lt_v2_temp12_off": {
+		"name": "material_30_doge_racing_doge_charger_lt_v2_temp12_off",
+		"class": "Material",
+		"mapTo": "material_30_doge_racing_doge_charger_lt_v2_temp12_off",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_03_normal.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0.02,
+				"metallicFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_30_doge_racing_doge_charger_lt_v2_temp12_on": {
+		"name": "material_30_doge_racing_doge_charger_lt_v2_temp12_on",
+		"class": "Material",
+		"mapTo": "material_30_doge_racing_doge_charger_lt_v2_temp12_on",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_03_normal.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0.02,
+				"metallicFactor": 1,
+				"emissiveFactor": [ 1, 1, 1 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_30_doge_racing_doge_charger_lt_v2_temp12_onIntense": {
+		"name": "material_30_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"class": "Material",
+		"mapTo": "material_30_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_03_normal.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0.02,
+				"metallicFactor": 1,
+				"emissiveFactor": [ 1, 1, 1 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_31_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_31_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_31_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_t_blanknormal.dds",
+				"diffuseColor": [ 0.94902, 0.94902, 0.94902, 0.34902 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 0.34902,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "AddAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_31_doge_racing_doge_charger_lt_v2_temp12_off": {
+		"name": "material_31_doge_racing_doge_charger_lt_v2_temp12_off",
+		"class": "Material",
+		"mapTo": "material_31_doge_racing_doge_charger_lt_v2_temp12_off",
+		"Stages": [
+			{
+				"normalMap": "camso_t_blanknormal.dds",
+				"diffuseColor": [ 0.94902, 0.94902, 0.94902, 0.34902 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 0.34902,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "AddAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_31_doge_racing_doge_charger_lt_v2_temp12_on": {
+		"name": "material_31_doge_racing_doge_charger_lt_v2_temp12_on",
+		"class": "Material",
+		"mapTo": "material_31_doge_racing_doge_charger_lt_v2_temp12_on",
+		"Stages": [
+			{
+				"normalMap": "camso_t_blanknormal.dds",
+				"diffuseColor": [ 0.94902, 0.94902, 0.94902, 0.34902 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 0.34902,
+				"emissiveFactor": [ 0.992141, 0.992141, 0.992141 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "AddAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_31_doge_racing_doge_charger_lt_v2_temp12_onIntense": {
+		"name": "material_31_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"class": "Material",
+		"mapTo": "material_31_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"Stages": [
+			{
+				"normalMap": "camso_t_blanknormal.dds",
+				"diffuseColor": [ 0.94902, 0.94902, 0.94902, 0.34902 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 0.34902,
+				"emissiveFactor": [ 1, 1, 1 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "AddAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_32_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_32_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_32_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0, 0, 0, 1 ],
+				"roughnessFactor": 0.3,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_33_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_33_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_33_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.603922, 0.603922, 0.623529, 1 ],
+				"roughnessFactor": 0.03,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_34_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_34_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_34_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.603922, 0.603922, 0.623529, 1 ],
+				"roughnessFactor": 0.03,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_35_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_35_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_35_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0, 0, 0, 1 ],
+				"roughnessFactor": 0.3,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_36_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_36_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_36_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_t_grille01_n.dds",
+				"diffuseColor": [ 0.431373, 0.431373, 0.431373, 0.027451 ],
+				"roughnessFactor": 1,
+				"metallicFactor": 1,
+				"diffuseMap": "camso_t_grille01_h_rbgmask.dds",
+				"metallicMap": "camso_t_grille01_h_rbgmask.dds",
+				"roughnessMap": "camso_t_grille01_h_i_rbgmask.dds",
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_36_doge_racing_doge_charger_lt_v2_temp12_off": {
+		"name": "material_36_doge_racing_doge_charger_lt_v2_temp12_off",
+		"class": "Material",
+		"mapTo": "material_36_doge_racing_doge_charger_lt_v2_temp12_off",
+		"Stages": [
+			{
+				"normalMap": "camso_t_grille01_n.dds",
+				"diffuseColor": [ 0.431373, 0.431373, 0.431373, 0.027451 ],
+				"roughnessFactor": 1,
+				"metallicFactor": 1,
+				"diffuseMap": "camso_t_grille01_h_rbgmask.dds",
+				"metallicMap": "camso_t_grille01_h_rbgmask.dds",
+				"roughnessMap": "camso_t_grille01_h_i_rbgmask.dds",
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_36_doge_racing_doge_charger_lt_v2_temp12_on": {
+		"name": "material_36_doge_racing_doge_charger_lt_v2_temp12_on",
+		"class": "Material",
+		"mapTo": "material_36_doge_racing_doge_charger_lt_v2_temp12_on",
+		"Stages": [
+			{
+				"normalMap": "camso_t_grille01_n.dds",
+				"diffuseColor": [ 0.431373, 0.431373, 0.431373, 0.027451 ],
+				"roughnessFactor": 1,
+				"metallicFactor": 1,
+				"diffuseMap": "camso_t_grille01_h_rbgmask.dds",
+				"metallicMap": "camso_t_grille01_h_rbgmask.dds",
+				"roughnessMap": "camso_t_grille01_h_i_rbgmask.dds",
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_36_doge_racing_doge_charger_lt_v2_temp12_onIntense": {
+		"name": "material_36_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"class": "Material",
+		"mapTo": "material_36_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"Stages": [
+			{
+				"normalMap": "camso_t_grille01_n.dds",
+				"diffuseColor": [ 0.431373, 0.431373, 0.431373, 0.027451 ],
+				"roughnessFactor": 1,
+				"metallicFactor": 1,
+				"diffuseMap": "camso_t_grille01_h_rbgmask.dds",
+				"metallicMap": "camso_t_grille01_h_rbgmask.dds",
+				"roughnessMap": "camso_t_grille01_h_i_rbgmask.dds",
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_37_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_37_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_37_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_t_blanknormal.dds",
+				"diffuseColor": [ 0.47451, 0.0666667, 0.0470588, 0.988235 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 0.988235,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_37_doge_racing_doge_charger_lt_v2_temp12_off": {
+		"name": "material_37_doge_racing_doge_charger_lt_v2_temp12_off",
+		"class": "Material",
+		"mapTo": "material_37_doge_racing_doge_charger_lt_v2_temp12_off",
+		"Stages": [
+			{
+				"normalMap": "camso_t_blanknormal.dds",
+				"diffuseColor": [ 0.47451, 0.0666667, 0.0470588, 0.988235 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 0.988235,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_37_doge_racing_doge_charger_lt_v2_temp12_on": {
+		"name": "material_37_doge_racing_doge_charger_lt_v2_temp12_on",
+		"class": "Material",
+		"mapTo": "material_37_doge_racing_doge_charger_lt_v2_temp12_on",
+		"Stages": [
+			{
+				"normalMap": "camso_t_blanknormal.dds",
+				"diffuseColor": [ 0.47451, 0.0666667, 0.0470588, 0.988235 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 0.988235,
+				"emissiveFactor": [ 0.905694, 0.361288, 0.301898 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_37_doge_racing_doge_charger_lt_v2_temp12_onIntense": {
+		"name": "material_37_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"class": "Material",
+		"mapTo": "material_37_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"Stages": [
+			{
+				"normalMap": "camso_t_blanknormal.dds",
+				"diffuseColor": [ 0.47451, 0.0666667, 0.0470588, 0.988235 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 0.988235,
+				"emissiveFactor": [ 1, 0.398907, 0.333333 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_38_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_38_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_38_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_05_normal.dds",
+				"diffuseColor": [ 0.996078, 0.419608, 0, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_38_doge_racing_doge_charger_lt_v2_temp12_off": {
+		"name": "material_38_doge_racing_doge_charger_lt_v2_temp12_off",
+		"class": "Material",
+		"mapTo": "material_38_doge_racing_doge_charger_lt_v2_temp12_off",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_05_normal.dds",
+				"diffuseColor": [ 0.996078, 0.419608, 0, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_38_doge_racing_doge_charger_lt_v2_temp12_on": {
+		"name": "material_38_doge_racing_doge_charger_lt_v2_temp12_on",
+		"class": "Material",
+		"mapTo": "material_38_doge_racing_doge_charger_lt_v2_temp12_on",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_05_normal.dds",
+				"diffuseColor": [ 0.996078, 0.419608, 0, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 1,
+				"emissiveFactor": [ 0.99738, 0.670177, 0.33903 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_38_doge_racing_doge_charger_lt_v2_temp12_onIntense": {
+		"name": "material_38_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"class": "Material",
+		"mapTo": "material_38_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_05_normal.dds",
+				"diffuseColor": [ 0.996078, 0.419608, 0, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 1,
+				"emissiveFactor": [ 1, 0.671937, 0.339921 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_39_doge_racing_doge_charger_lt_v2_temp12": {
+		"name": "material_39_doge_racing_doge_charger_lt_v2_temp12",
+		"class": "Material",
+		"mapTo": "material_39_doge_racing_doge_charger_lt_v2_temp12",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_05_normal.dds",
+				"diffuseColor": [ 0.996078, 0.419608, 0, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_39_doge_racing_doge_charger_lt_v2_temp12_off": {
+		"name": "material_39_doge_racing_doge_charger_lt_v2_temp12_off",
+		"class": "Material",
+		"mapTo": "material_39_doge_racing_doge_charger_lt_v2_temp12_off",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_05_normal.dds",
+				"diffuseColor": [ 0.996078, 0.419608, 0, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_39_doge_racing_doge_charger_lt_v2_temp12_on": {
+		"name": "material_39_doge_racing_doge_charger_lt_v2_temp12_on",
+		"class": "Material",
+		"mapTo": "material_39_doge_racing_doge_charger_lt_v2_temp12_on",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_05_normal.dds",
+				"diffuseColor": [ 0.996078, 0.419608, 0, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 1,
+				"emissiveFactor": [ 0.99738, 0.670177, 0.33903 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_39_doge_racing_doge_charger_lt_v2_temp12_onIntense": {
+		"name": "material_39_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"class": "Material",
+		"mapTo": "material_39_doge_racing_doge_charger_lt_v2_temp12_onIntense",
+		"Stages": [
+			{
+				"normalMap": "camso_t_taillightreflector_05_normal.dds",
+				"diffuseColor": [ 0.996078, 0.419608, 0, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"opacityFactor": 1,
+				"emissiveFactor": [ 1, 0.671937, 0.339921 ],
+				"glow": true,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": true,
+		"translucentBlendOp": "PreMulAlpha",
+		"translucentZWrite": false,
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_40_doge_racing_doge_charger_lt_v2_efixturetype__eft_number_plate012": {
+		"name": "material_40_doge_racing_doge_charger_lt_v2_efixturetype__eft_number_plate012",
+		"class": "Material",
+		"mapTo": "material_40_doge_racing_doge_charger_lt_v2_efixturetype__eft_number_plate012",
+		"Stages": [
+			{
+				"normalMap": "camso_hrl_nm_californianew.dds",
+				"diffuseMap": "camso_californianew.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_41_doge_racing_doge_charger_lt_v2_temp14": {
+		"name": "material_41_doge_racing_doge_charger_lt_v2_temp14",
+		"class": "Material",
+		"mapTo": "material_41_doge_racing_doge_charger_lt_v2_temp14",
+		"Stages": [
+			{
+				"normalMap": "cyberwolf_doge_racing_doge_charger_lt_v2_supersport_normal_atlas.dds",
+				"diffuseMapUseUV": 1,
+				"diffuseColor": [ 0.886275, 0.886275, 0.886275, 1 ],
+				"opacityMap": "cyberwolf_doge_racing_doge_charger_lt_v2_supersport_atlas.dds",
+				"opacityMapUseUV": 1,
+				"roughnessFactor": 0.1,
+				"metallicFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_43_doge_racing_doge_charger_lt_v2_temp14": {
+		"name": "material_43_doge_racing_doge_charger_lt_v2_temp14",
+		"class": "Material",
+		"mapTo": "material_43_doge_racing_doge_charger_lt_v2_temp14",
+		"Stages": [
+			{
+				"normalMap": "cyberwolf_doge_racing_doge_charger_lt_v2_supersport_normal_atlas.dds",
+				"diffuseMapUseUV": 1,
+				"diffuseColor": [ 0.886275, 0.886275, 0.886275, 1 ],
+				"opacityMap": "cyberwolf_doge_racing_doge_charger_lt_v2_supersport_atlas.dds",
+				"opacityMapUseUV": 1,
+				"roughnessFactor": 0.295238,
+				"metallicFactor": 0.809524,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"castShadows": false,
+		"translucentRecvShadows": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_44_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14": {
+		"name": "material_44_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14",
+		"class": "Material",
+		"mapTo": "material_44_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.866667, 0.878431, 0.905882, 1 ],
+				"roughnessFactor": 0.9,
+				"metallicFactor": 0.4
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_45_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14": {
+		"name": "material_45_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14",
+		"class": "Material",
+		"mapTo": "material_45_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14",
+		"Stages": [
+			{
+				"normalMap": "camso_headfacingnormal.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_46_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14": {
+		"name": "material_46_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14",
+		"class": "Material",
+		"mapTo": "material_46_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.737255, 0.737255, 0.737255, 1 ],
+				"roughnessFactor": 0.25,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_47_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14": {
+		"name": "material_47_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14",
+		"class": "Material",
+		"mapTo": "material_47_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.6, 0.6, 0.6, 1 ],
+				"roughnessFactor": 0.3,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_48_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14": {
+		"name": "material_48_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14",
+		"class": "Material",
+		"mapTo": "material_48_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.94902, 0.854902, 0.639216, 1 ],
+				"roughnessFactor": 0.2,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_49_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14": {
+		"name": "material_49_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14",
+		"class": "Material",
+		"mapTo": "material_49_doge_racing_doge_charger_lt_v2_inl_dohc_5_mid_c_2145868343_sectionmesh_inlv_dohc_5_head_mid14",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.0470588, 0.0470588, 0.0470588, 0 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_50_doge_racing_doge_charger_lt_v2_inl_dohc_4_rockercover_frontmid_c_2145868340_staticmesh_inlv_dohc_4_rockercover_mid15": {
+		"name": "material_50_doge_racing_doge_charger_lt_v2_inl_dohc_4_rockercover_frontmid_c_2145868340_staticmesh_inlv_dohc_4_rockercover_mid15",
+		"class": "Material",
+		"mapTo": "material_50_doge_racing_doge_charger_lt_v2_inl_dohc_4_rockercover_frontmid_c_2145868340_staticmesh_inlv_dohc_4_rockercover_mid15",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.603922, 0.603922, 0.623529, 1 ],
+				"roughnessFactor": 1,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_51_doge_racing_doge_charger_lt_v2_crankshaftbuilder_c_2147475391_node_addstaticmeshcomponent_10_crank_main_shaft105": {
+		"name": "material_51_doge_racing_doge_charger_lt_v2_crankshaftbuilder_c_2147475391_node_addstaticmeshcomponent_10_crank_main_shaft105",
+		"class": "Material",
+		"mapTo": "material_51_doge_racing_doge_charger_lt_v2_crankshaftbuilder_c_2147475391_node_addstaticmeshcomponent_10_crank_main_shaft105",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.913725, 0.984314, 1, 1 ],
+				"roughnessFactor": 0.19,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_52_doge_racing_doge_charger_lt_v2_v90_intakemanifold_di_4_highend_front_c_2147473878_staticmesh_v90_intakemanifold_mpfi_4_highend_front107": {
+		"name": "material_52_doge_racing_doge_charger_lt_v2_v90_intakemanifold_di_4_highend_front_c_2147473878_staticmesh_v90_intakemanifold_mpfi_4_highend_front107",
+		"class": "Material",
+		"mapTo": "material_52_doge_racing_doge_charger_lt_v2_v90_intakemanifold_di_4_highend_front_c_2147473878_staticmesh_v90_intakemanifold_mpfi_4_highend_front107",
+		"Stages": [
+			{
+				"normalMap": "camso_alunormal.dds",
+				"diffuseColor": [ 0, 0, 0, 1 ],
+				"roughnessFactor": 0.15,
+				"metallicFactor": 0,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_53_doge_racing_doge_charger_lt_v2_v90_intakemanifold_di_4_highend_rear_c_2147473871_v90_mpfi_injectorplate_rear_v90_mpfi_injectorplate_rear122": {
+		"name": "material_53_doge_racing_doge_charger_lt_v2_v90_intakemanifold_di_4_highend_rear_c_2147473871_v90_mpfi_injectorplate_rear_v90_mpfi_injectorplate_rear122",
+		"class": "Material",
+		"mapTo": "material_53_doge_racing_doge_charger_lt_v2_v90_intakemanifold_di_4_highend_rear_c_2147473871_v90_mpfi_injectorplate_rear_v90_mpfi_injectorplate_rear122",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.74902, 0, 0, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_54_doge_racing_doge_charger_lt_v2_v90_di_4_intake_race_trumpet_c_2147473854_staticmesh_v60_intake_di_4_race_trumpet139": {
+		"name": "material_54_doge_racing_doge_charger_lt_v2_v90_di_4_intake_race_trumpet_c_2147473854_staticmesh_v60_intake_di_4_race_trumpet139",
+		"class": "Material",
+		"mapTo": "material_54_doge_racing_doge_charger_lt_v2_v90_di_4_intake_race_trumpet_c_2147473854_staticmesh_v60_intake_di_4_race_trumpet139",
+		"Stages": [
+			{
+				"normalMap": "camso_t_carbonfiber_twill_n.dds",
+				"diffuseColor": [ 0.658824, 0.658824, 0.658824, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_55_doge_racing_doge_charger_lt_v2_v90_intake_di_4_highend_front_c_2147473838_staticmesh_v90_intake_mpfi_4_highend_front155": {
+		"name": "material_55_doge_racing_doge_charger_lt_v2_v90_intake_di_4_highend_front_c_2147473838_staticmesh_v90_intake_mpfi_4_highend_front155",
+		"class": "Material",
+		"mapTo": "material_55_doge_racing_doge_charger_lt_v2_v90_intake_di_4_highend_front_c_2147473838_staticmesh_v90_intake_mpfi_4_highend_front155",
+		"Stages": [
+			{
+				"normalMap": "camso_t_carbonfibre_normal.dds",
+				"diffuseColor": [ 0.0980392, 0.0980392, 0.0980392, 1 ],
+				"roughnessFactor": 0.55,
+				"metallicFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_56_doge_racing_doge_charger_lt_v2_v90_sohc_belt_c_2145867789_v_alternator_v_alternator_modern164": {
+		"name": "material_56_doge_racing_doge_charger_lt_v2_v90_sohc_belt_c_2145867789_v_alternator_v_alternator_modern164",
+		"class": "Material",
+		"mapTo": "material_56_doge_racing_doge_charger_lt_v2_v90_sohc_belt_c_2145867789_v_alternator_v_alternator_modern164",
+		"Stages": [
+			{
+				"normalMap": "camso_alternator_modern_low_m_alternator_modern_normal.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_57_doge_racing_doge_charger_lt_v2_childactor_gen_variable_pulley_dohc_tensionpulley_left_c_cat_2145867787_pulley_component_inl_dohc_4_tensionpulley166": {
+		"name": "material_57_doge_racing_doge_charger_lt_v2_childactor_gen_variable_pulley_dohc_tensionpulley_left_c_cat_2145867787_pulley_component_inl_dohc_4_tensionpulley166",
+		"class": "Material",
+		"mapTo": "material_57_doge_racing_doge_charger_lt_v2_childactor_gen_variable_pulley_dohc_tensionpulley_left_c_cat_2145867787_pulley_component_inl_dohc_4_tensionpulley166",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0, 0, 0, 0 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_58_doge_racing_doge_charger_lt_v2_v90_sohc_belt_c_2145867789_alt_bracket_v90_modern_alt_bracket_v90_modern170": {
+		"name": "material_58_doge_racing_doge_charger_lt_v2_v90_sohc_belt_c_2145867789_alt_bracket_v90_modern_alt_bracket_v90_modern170",
+		"class": "Material",
+		"mapTo": "material_58_doge_racing_doge_charger_lt_v2_v90_sohc_belt_c_2145867789_alt_bracket_v90_modern_alt_bracket_v90_modern170",
+		"Stages": [
+			{
+				"normalMap": "camso_brackets_low_m_alternator_normal.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_59_doge_racing_doge_charger_lt_v2_v90_v16_headers_turbo_headers_shortcast_l_c_2145867748_staticmesh_v90_v16_headers_turbo_headers_shortcast_l171": {
+		"name": "material_59_doge_racing_doge_charger_lt_v2_v90_v16_headers_turbo_headers_shortcast_l_c_2145867748_staticmesh_v90_v16_headers_turbo_headers_shortcast_l171",
+		"class": "Material",
+		"mapTo": "material_59_doge_racing_doge_charger_lt_v2_v90_v16_headers_turbo_headers_shortcast_l_c_2145867748_staticmesh_v90_v16_headers_turbo_headers_shortcast_l171",
+		"Stages": [
+			{
+				"normalMap": "camso_pittedironnormal.dds",
+				"diffuseColor": [ 0.439216, 0.4, 0.392157, 1 ],
+				"roughnessFactor": 0.9,
+				"metallicFactor": 0.2,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_60_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_1_155_turbo_turbinehousing173": {
+		"name": "material_60_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_1_155_turbo_turbinehousing173",
+		"class": "Material",
+		"mapTo": "material_60_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_1_155_turbo_turbinehousing173",
+		"Stages": [
+			{
+				"normalMap": "camso_pittedironnormal.dds",
+				"diffuseColor": [ 0.52549, 0.478431, 0.466667, 1 ],
+				"roughnessFactor": 0.9,
+				"metallicFactor": 0.2,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_61_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_1_164_turbo_shaft182": {
+		"name": "material_61_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_1_164_turbo_shaft182",
+		"class": "Material",
+		"mapTo": "material_61_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_1_164_turbo_shaft182",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.501961, 0.501961, 0.501961, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_62_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_7_1_turbo_intercooler_twin_v_large185": {
+		"name": "material_62_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_7_1_turbo_intercooler_twin_v_large185",
+		"class": "Material",
+		"mapTo": "material_62_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_7_1_turbo_intercooler_twin_v_large185",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.6, 0.6, 0.6, 1 ],
+				"roughnessFactor": 0.3,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_63_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_7_1_turbo_intercooler_twin_v_large185": {
+		"name": "material_63_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_7_1_turbo_intercooler_twin_v_large185",
+		"class": "Material",
+		"mapTo": "material_63_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_7_1_turbo_intercooler_twin_v_large185",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_64_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_1_172_intakepipe_bend90_metal188": {
+		"name": "material_64_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_1_172_intakepipe_bend90_metal188",
+		"class": "Material",
+		"mapTo": "material_64_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_1_172_intakepipe_bend90_metal188",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.737255, 0.737255, 0.737255, 1 ],
+				"roughnessFactor": 0.25,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_65_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_1_175_intakepipe_straightsmall191": {
+		"name": "material_65_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_1_175_intakepipe_straightsmall191",
+		"class": "Material",
+		"mapTo": "material_65_doge_racing_doge_charger_lt_v2_a_turbo_builder_c_2147473804_node_addstaticmeshcomponent_1_175_intakepipe_straightsmall191",
+		"Stages": [
+			{
+				"normalMap": "camso_alunormal.dds",
+				"diffuseColor": [ 0, 0, 0, 1 ],
+				"roughnessFactor": 0.15,
+				"metallicFactor": 0,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_66_doge_racing_doge_charger_lt_v2_a_ignition_system_coilpack_c_2145867571_staticmesh_ignitioncoilpack252": {
+		"name": "material_66_doge_racing_doge_charger_lt_v2_a_ignition_system_coilpack_c_2145867571_staticmesh_ignitioncoilpack252",
+		"class": "Material",
+		"mapTo": "material_66_doge_racing_doge_charger_lt_v2_a_ignition_system_coilpack_c_2145867571_staticmesh_ignitioncoilpack252",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0, 0, 0, 1 ],
+				"roughnessFactor": 0.3,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_67_doge_racing_doge_charger_lt_v2_v90_block_mid_actor_c_2145867543_sectionmesh_v90_block_middle276": {
+		"name": "material_67_doge_racing_doge_charger_lt_v2_v90_block_mid_actor_c_2145867543_sectionmesh_v90_block_middle276",
+		"class": "Material",
+		"mapTo": "material_67_doge_racing_doge_charger_lt_v2_v90_block_mid_actor_c_2145867543_sectionmesh_v90_block_middle276",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 0
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_68_doge_racing_doge_charger_lt_v2_v90_block_mid_actor_c_2145867543_sectionmesh_v90_block_middle276": {
+		"name": "material_68_doge_racing_doge_charger_lt_v2_v90_block_mid_actor_c_2145867543_sectionmesh_v90_block_middle276",
+		"class": "Material",
+		"mapTo": "material_68_doge_racing_doge_charger_lt_v2_v90_block_mid_actor_c_2145867543_sectionmesh_v90_block_middle276",
+		"Stages": [
+			{
+				"normalMap": "camso_engineblocktophole_01_normal.dds",
+				"diffuseColor": [ 0.737255, 0.737255, 0.737255, 1 ],
+				"roughnessFactor": 0.25,
+				"metallicFactor": 1,
+				"useAnisotropic": true
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_69_doge_racing_doge_charger_lt_v2_inl_flying_wheel_01_actor_gen_variable_inl_flying_wheel_01_actor_c_cat_2145867533_inl_flying_wheel_01_mesh_inl_flying_wheel_01286": {
+		"name": "material_69_doge_racing_doge_charger_lt_v2_inl_flying_wheel_01_actor_gen_variable_inl_flying_wheel_01_actor_c_cat_2145867533_inl_flying_wheel_01_mesh_inl_flying_wheel_01286",
+		"class": "Material",
+		"mapTo": "material_69_doge_racing_doge_charger_lt_v2_inl_flying_wheel_01_actor_gen_variable_inl_flying_wheel_01_actor_c_cat_2145867533_inl_flying_wheel_01_mesh_inl_flying_wheel_01286",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 0.737255, 0.737255, 0.737255, 1 ],
+				"roughnessFactor": 0.25,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	},
+	"material_70_doge_racing_doge_charger_lt_v2_mainexhaustmesh293": {
+		"name": "material_70_doge_racing_doge_charger_lt_v2_mainexhaustmesh293",
+		"class": "Material",
+		"mapTo": "material_70_doge_racing_doge_charger_lt_v2_mainexhaustmesh293",
+		"Stages": [
+			{
+				"normalMap": "camso_col_0xff8080ff.dds",
+				"diffuseColor": [ 1, 1, 1, 1 ],
+				"roughnessFactor": 0,
+				"metallicFactor": 1
+			},
+			{
+			},
+			{
+			},
+			{
+			}
+		],
+		"alphaRef": 1,
+		"alphaTest": true,
+		"translucent": false,
+		"translucentBlendOp": "None",
+		"doubleSided": true,
+		"invertBackFaceNormals": true,
+		"dynamicCubemap": true,
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"order_simset": 0,
+		"version": 1.5
+	}
+}
