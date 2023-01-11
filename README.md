@@ -4,6 +4,6 @@
 ## install instructions
 the dae file is located in vehicles/cyberwolf_doge_racing_doge_charger_lt_v2/dae.zip
 extract the zip to vehicles/cyberwolf_doge_racing_doge_charger_lt_v2/
-the engine sounds need to be extracted into art/sounds/
+the engine.zip need to be extracted into art/sounds/
 ## about
 this is a older car before i moved into beta
